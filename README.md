@@ -19,11 +19,8 @@ O jogo funciona no terminal e permite que o jogador tente adivinhar uma palavra 
 ## 🛠️ Tecnologias utilizadas
 
 - **Python 3**
-```
-*O exemplo é ilustrativo. A palavra e as mensagens dependem da implementação do jogo.*
-
-## 📚 Conceitos de Python praticados
-
+---
+## Conceitos aplicados
 - Variáveis e tipos de dados.
 - Listas e strings.
 - Estruturas condicionais (`if`, `elif` e `else`).
