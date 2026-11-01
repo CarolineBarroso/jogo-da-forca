@@ -1,4 +1,3 @@
-# jogo-da-forca
 # 🎮 Jogo da Forca em Python
 
 Um jogo da forca desenvolvido em Python, no qual o jogador precisa descobrir a palavra secreta antes de esgotar o número de tentativas disponíveis.
