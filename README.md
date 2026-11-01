@@ -19,6 +19,7 @@ O jogo funciona no terminal e permite que o jogador tente adivinhar uma palavra 
 ## 🛠️ Tecnologias utilizadas
 
 - **Python 3**
+- **Google Colab**
 ---
 ## Conceitos aplicados
 - Variáveis e tipos de dados.
