@@ -6,7 +6,6 @@ Um jogo da forca desenvolvido em Python, no qual o jogador precisa descobrir a p
 ## 📌 Sobre o projeto
 
 Este projeto foi desenvolvido com o objetivo de praticar os fundamentos da linguagem Python, incluindo estruturas condicionais, laços de repetição, manipulação de strings e entrada de dados do usuário.
-
 O jogo funciona no terminal e permite que o jogador tente adivinhar uma palavra letra por letra.
 
 ## 🚀 Funcionalidades
@@ -24,43 +23,7 @@ O jogo funciona no terminal e permite que o jogador tente adivinhar uma palavra 
 - Terminal ou console para execução.
 - Git e GitHub para versionamento e compartilhamento do projeto.
 
-## 📂 Estrutura do projeto
-
-```text
-jogo-da-forca/
-│
-├── jogo.py
-└── README.md
 ```
-
-## ▶️ Como executar o projeto
-
-### 1. Instale o Python
-
-Caso ainda não tenha o Python instalado, acesse:
-
-https://www.python.org/downloads/
-
-### 2. Clone o repositório
-
-```bash
-git clone https://github.com/SEU-USUARIO/jogo-da-forca.git
-```
-
-### 3. Entre na pasta do projeto
-
-```bash
-cd jogo-da-forca
-```
-
-### 4. Execute o jogo
-
-```bash
-python jogo.py
-```
-
-Se necessário, utilize `python3 jogo.py`, dependendo da configuração do seu computador.
-
 ## 🎮 Exemplo de funcionamento
 
 ```text
@@ -94,9 +57,3 @@ Tentativas restantes: 5
 ## 🎯 Objetivo de aprendizagem
 
 Praticar lógica de programação e desenvolver habilidades na linguagem Python por meio de um projeto simples e interativo.
-
-## 👩‍💻 Autora
-
-Desenvolvido por **Caroline Barroso**.
-
-⭐ Se você gostou do projeto, deixe uma estrela no repositório!
