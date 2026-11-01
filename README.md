@@ -20,24 +20,6 @@ O jogo funciona no terminal e permite que o jogador tente adivinhar uma palavra 
 
 - **Python 3**
 ```
-## 🎮 Exemplo de funcionamento
-
-```text
-================================
-       JOGO DA FORCA
-================================
-
-Palavra: _ _ _ _ _
-
-Digite uma letra: P
-
-Boa! A letra P foi encontrada.
-
-Palavra: P _ _ _ _
-
-Tentativas restantes: 5
-```
-
 *O exemplo é ilustrativo. A palavra e as mensagens dependem da implementação do jogo.*
 
 ## 📚 Conceitos de Python praticados
