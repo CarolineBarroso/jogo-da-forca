@@ -19,9 +19,6 @@ O jogo funciona no terminal e permite que o jogador tente adivinhar uma palavra 
 ## 🛠️ Tecnologias utilizadas
 
 - **Python 3**
-- Terminal ou console para execução.
-- Git e GitHub para versionamento e compartilhamento do projeto.
-
 ```
 ## 🎮 Exemplo de funcionamento
 
