@@ -49,7 +49,3 @@ Tentativas restantes: 5
 - Entrada de dados com `input()`.
 - Exibição de informações com `print()`.
 - Operadores lógicos e relacionais.
-
-## 🎯 Objetivo de aprendizagem
-
-Praticar lógica de programação e desenvolver habilidades na linguagem Python por meio de um projeto simples e interativo.
